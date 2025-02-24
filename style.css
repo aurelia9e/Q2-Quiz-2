@@ -1,0 +1,50 @@
+body {
+	background-image: url(https://t4.ftcdn.net/jpg/03/39/16/41/360_F_339164168_EHlFVZnP5n4BCh4huPeILoPyD0LEhWzl.jpg);
+	color: white;
+	background-repeat: none;
+	font-family: sans-serif;
+}
+
+.container {
+	background-color: #383B53;
+	color: white;
+	text-align: center;
+	padding: 10px;
+	border-radius: 40px;
+}
+
+.btn11 {
+	border-radius: 20px;
+	background-color: #32213A;
+	color: lawngreen;
+	margin-top: 10px;
+	padding: 10.5px;
+	margin-bottom: 10px;
+}
+
+/*Colored like a Rotten Tomato, as in the one for movies*/
+
+.thingy {
+	color: white;
+}
+
+
+.fluff {
+	background-color: yellow;
+	padding: 10px;
+}
+
+.extra {
+	max-height: 500px;
+}
+
+.flair {
+	background-color: #2E86AB;
+	color: #32213A;
+	padding: 10px;
+	border-radius: 30px;
+}
+
+
+
+/*it's NOT the color of mcdonalds it's meant to be the color of popcorn*/
